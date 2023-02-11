@@ -129,6 +129,9 @@ const IndexPage = () => {
       <div>
         Welcome to gatsby website
       </div>
+      <div>
+        cereated this by gatsby documentation
+      </div>
     </main>
   )
 }
