@@ -127,7 +127,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <div>
-        Welcome to gatsby
+        Welcome to gatsby website
       </div>
     </main>
   )
