@@ -130,7 +130,7 @@ const IndexPage = () => {
         Welcome to gatsby website
       </div>
       <div>
-        cereated this by gatsby documentation
+        cereated this by following gatsby documentation
       </div>
     </main>
   )
